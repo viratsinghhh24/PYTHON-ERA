@@ -1,0 +1,11 @@
+#variables
+a=20    
+b=24
+c=8
+d=2
+e=22
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
